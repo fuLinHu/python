@@ -11,3 +11,7 @@ newList = list.copy()
 
 print(newList)
 print(newList is list)
+
+print([x**2 for x in (2,3,4,5)])
+print([x for x in (2,3,4,5)])
+print([x for x in (2,3,4,5) if x <5])
