@@ -66,4 +66,8 @@ print(a)
 a='uejklll'
 b='uejklll'
 print(id(a) == id(b))
+b=dict([(1,2),(3,4),(5,6)])
+print(b)
+
+
 

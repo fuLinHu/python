@@ -20,3 +20,8 @@ f1.write(b'0123456789abcdef')
 print(f1.seek(14))
 print(f1.read(1))
 
+
+
+
+
+

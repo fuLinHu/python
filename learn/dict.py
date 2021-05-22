@@ -80,3 +80,8 @@ for i in sorted(questions):
 
 
 
+
+k=zip(answers,questions)
+print(list(k))
+
+
